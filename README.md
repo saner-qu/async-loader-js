@@ -63,13 +63,13 @@ AsyncLoader.LANGUAGE = 'zh-CN';
 AsyncLoader.REGION = 'GB';
 ```
 
-## Unload amap api
+## Unload async-loader-js api
 
-For testing purposes is good to remove all amap objects and restore loader to its original state.
+For testing purposes is good to remove all async-loader-js objects and restore loader to its original state.
 
 ```javascript
 AsyncLoader.release(function() {
-	console.log('No amap api around');
+	console.log('No async-loader-js api around');
 });
 ```
 
