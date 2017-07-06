@@ -1,0 +1,25 @@
+{
+  "name": "async-loader-js",
+  "version": "1.0.0",
+  "description": "async load .js",
+  "main": "lib/async-loader-js.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saner-qu/async-loader-js.git"
+  },
+  "keywords": [
+    "async",
+    "loader",
+    "javascript",
+    "typescript"
+  ],
+  "author": "saner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saner-qu/async-loader-js/issues"
+  },
+  "homepage": "https://github.com/saner-qu/async-loader-js#readme"
+}
